@@ -42,12 +42,11 @@ body {
     font-size: 25px;
     font-weight: bold;
     transition: transform 0.3s ease;
-    pointer: courser;
 }
 
 .logo:hover {
     transform: scale(1.1);
-    
+    cursor: pointer;
 }
 
 .nav-links {
